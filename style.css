@@ -66,4 +66,7 @@ footer div a{
     height: auto;
     border-radius: 8px; 
   }
-  
+   .foot{
+    background: linear-gradient(to right, #ff7e5f 20%, #feb47b 50%, #6a11cb 100%);
+    padding: 50px;
+  }
