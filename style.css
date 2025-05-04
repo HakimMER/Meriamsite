@@ -52,7 +52,7 @@ footer div a{
     display: inline;
    
 }
-.pictures {
+#pictures {
     display: flex;
     overflow-x: auto;
     gap: 10px; 
@@ -60,7 +60,7 @@ footer div a{
     scroll-behavior: smooth; 
   }
   
-  .pictures img {
+  #pictures img {
     flex: 0 0 auto; 
     width: 200px;
     height: auto;
